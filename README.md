@@ -19,9 +19,3 @@ Este projeto é uma aplicação de console em Java que simula uma calculadora el
 ## 📂 Estrutura do Repositório
 * `Main.java`: Ponto de entrada do programa. Responsável por instanciar a classe controladora, capturar a entrada do usuário e invocar os comportamentos do objeto.
 * `Calculadora.java`: Classe de modelo que define o estado (variáveis de instância) e o comportamento (métodos operacionais) da calculadora.
-
-## 🚀 Como Executar Localmente
-
-1. Clone este repositório para a sua máquina:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
